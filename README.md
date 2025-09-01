@@ -1,10 +1,10 @@
 
 
 # Bee Simulation project - Taking Care Of Beezness
-- COMP1005 Assignment
+
 
 #Student Name: Layla Dawood
-#Student ID: 23100624
+
 
 
 #Description of the program:

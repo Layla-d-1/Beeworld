@@ -3,11 +3,11 @@
 # Bee Simulation project - Taking Care Of Beezness
 
 
-#Student Name: Layla Dawood
 
 
 
-#Description of the program:
+
+# Description of the program:
 
 This program simulates the behavior of honey bees in a 2D environment. Bees leave the hive, collect nectar from flowers and return to store honey. This simulation includes a visual representation of bee positions, flower status, hive location and a honeycomb frame that fills as bees deliver the nectar.
 
@@ -15,7 +15,7 @@ The simulation supports both interactive and batch input modes. Parameters such 
 
 
 
-#Files Included:
+# Files Included:
 
 - beeworld.py – Main simulation script
 - buzzness.py – Class definitions for Bee, Flower, and Frame
@@ -25,7 +25,7 @@ The simulation supports both interactive and batch input modes. Parameters such 
 
 
 
-#Requirements
+# Requirements
 
 - Python 3
 - Required libraries:
